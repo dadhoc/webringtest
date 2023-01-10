@@ -2,7 +2,7 @@
     "title": "Webring Test",
     "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
     "image": "background1.png",
-    "url": "https://webringtest1234.netlify.com",
+    "url": "webringtest1234.netlify.app",
     "repo": "https://github.com/dadhoc/webringtest",
     "admins": [
         {
